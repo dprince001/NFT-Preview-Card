@@ -105,7 +105,7 @@ main {
     bottom: -10px;
 }
 
-.price-date h3 {
+.price-date h2 {
     color: hsl(178, 100%, 50%);
     font-size: 14px;
 }
